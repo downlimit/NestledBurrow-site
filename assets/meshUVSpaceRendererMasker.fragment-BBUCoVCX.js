@@ -1,0 +1,1 @@
+import{_a as e,ga as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as meshUVSpaceRendererMaskerPixelShader};

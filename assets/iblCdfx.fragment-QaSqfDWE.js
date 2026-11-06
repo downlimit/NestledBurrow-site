@@ -1,0 +1,1 @@
+import{vn as e,yn as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as iblCdfxPixelShaderWGSL};

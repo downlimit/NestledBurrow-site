@@ -1,0 +1,1 @@
+import{B as e,V as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as proceduralVertexShaderWGSL};

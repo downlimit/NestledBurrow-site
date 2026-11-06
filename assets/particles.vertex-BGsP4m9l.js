@@ -1,0 +1,1 @@
+import{X as e,Z as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as particlesVertexShaderWGSL};

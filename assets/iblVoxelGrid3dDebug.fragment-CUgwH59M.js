@@ -1,0 +1,1 @@
+import{Gt as e,Wt as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as iblVoxelGrid3dDebugPixelShaderWGSL};

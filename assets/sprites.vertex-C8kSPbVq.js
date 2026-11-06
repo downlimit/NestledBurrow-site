@@ -1,0 +1,1 @@
+import{b as e,x as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as spritesVertexShaderWGSL};

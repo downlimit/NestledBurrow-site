@@ -1,0 +1,1 @@
+import{cr as e,lr as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as fluidRenderingRenderPixelShaderWGSL};

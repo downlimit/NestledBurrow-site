@@ -1,0 +1,1 @@
+import{J as e,Y as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as pbrPixelShaderWGSL};

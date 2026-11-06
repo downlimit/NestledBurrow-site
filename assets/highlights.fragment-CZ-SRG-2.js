@@ -1,0 +1,1 @@
+import{Do as e,Eo as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as highlightsPixelShader};

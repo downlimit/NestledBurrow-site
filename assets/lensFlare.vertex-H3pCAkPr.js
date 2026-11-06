@@ -1,0 +1,1 @@
+import{Aa as e,ja as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as lensFlareVertexShader};

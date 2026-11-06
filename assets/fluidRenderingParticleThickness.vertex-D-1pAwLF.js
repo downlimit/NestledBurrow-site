@@ -1,0 +1,1 @@
+import{dr as e,ur as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as fluidRenderingParticleThicknessVertexShaderWGSL};

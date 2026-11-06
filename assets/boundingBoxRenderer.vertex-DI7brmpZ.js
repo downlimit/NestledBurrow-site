@@ -1,0 +1,1 @@
+import{Jr as e,Yr as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as boundingBoxRendererVertexShaderWGSL};

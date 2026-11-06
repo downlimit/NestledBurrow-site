@@ -1,0 +1,1 @@
+import{aa as e,ia as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as outlineVertexShader};

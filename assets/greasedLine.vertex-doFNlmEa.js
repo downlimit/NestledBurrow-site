@@ -1,0 +1,1 @@
+import{Mn as e,Nn as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as greasedLineVertexShaderWGSL};

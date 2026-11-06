@@ -1,0 +1,1 @@
+import{co as e,lo as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as iblShadowDebugPixelShader};

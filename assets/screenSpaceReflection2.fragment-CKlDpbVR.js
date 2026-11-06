@@ -1,0 +1,1 @@
+import{Ri as e,zi as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as screenSpaceReflection2PixelShader};

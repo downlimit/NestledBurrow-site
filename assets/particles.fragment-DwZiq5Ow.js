@@ -1,0 +1,1 @@
+import{na as e,ra as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as particlesPixelShader};

@@ -1,0 +1,1 @@
+import{Bi as e,Vi as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as rsmGlobalIlluminationPixelShader};

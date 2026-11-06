@@ -1,0 +1,1 @@
+import{Ji as e,Yi as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as pickingPixelShader};

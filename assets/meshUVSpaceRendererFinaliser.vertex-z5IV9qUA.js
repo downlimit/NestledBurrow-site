@@ -1,0 +1,1 @@
+import{ht as e,mt as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as meshUVSpaceRendererFinaliserVertexShaderWGSL};

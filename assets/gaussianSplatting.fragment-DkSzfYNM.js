@@ -1,0 +1,1 @@
+import{as as e,is as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as gaussianSplattingPixelShader};

@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,l as r,o as i,r as a,s as o}from"./babylon.inspector.bundle.max-DfdtNPQU.js";r();export{a as AnimationPropertyInfo,n as TransformNodeAnimationPropertyInfo,e as WeightAnimationPropertyInfo,i as getQuaternion,o as getVector3,t as getWeights};

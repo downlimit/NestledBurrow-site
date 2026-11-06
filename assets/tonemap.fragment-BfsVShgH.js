@@ -1,0 +1,1 @@
+import{f as e,p as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as tonemapPixelShaderWGSL};

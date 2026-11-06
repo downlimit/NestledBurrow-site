@@ -1,0 +1,1 @@
+import{ac as e,ic as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as blackAndWhitePixelShader};

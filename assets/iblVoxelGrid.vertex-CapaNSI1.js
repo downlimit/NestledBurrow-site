@@ -1,0 +1,1 @@
+import{Jt as e,Yt as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as iblVoxelGridVertexShaderWGSL};

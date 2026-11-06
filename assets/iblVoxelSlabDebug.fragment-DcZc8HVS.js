@@ -1,0 +1,1 @@
+import{Ka as e,qa as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as iblVoxelSlabDebugPixelShader};

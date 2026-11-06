@@ -1,0 +1,1 @@
+import{Ds as e,Es as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";e();export{t as filterPixelShader};

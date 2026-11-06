@@ -1,0 +1,1 @@
+import{Ci as e,Si as t}from"./babylon.inspector.bundle.max-DfdtNPQU.js";t();export{e as ssao2PixelShader};
