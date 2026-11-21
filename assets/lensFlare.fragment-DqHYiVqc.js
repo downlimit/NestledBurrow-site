@@ -1,0 +1,1 @@
+import{Ma as e,Na as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as lensFlarePixelShader};

@@ -1,0 +1,1 @@
+import{fc as e,pc as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";t();export{e as backgroundPixelShader};

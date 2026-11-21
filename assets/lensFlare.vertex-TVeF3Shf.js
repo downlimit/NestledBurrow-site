@@ -1,0 +1,1 @@
+import{Dt as e,Et as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";t();export{e as lensFlareVertexShaderWGSL};

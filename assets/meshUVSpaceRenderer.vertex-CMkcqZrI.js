@@ -1,0 +1,1 @@
+import{Ca as e,Sa as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";t();export{e as meshUVSpaceRendererVertexShader};

@@ -1,0 +1,1 @@
+import{At as e,jt as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as layerVertexShaderWGSL};

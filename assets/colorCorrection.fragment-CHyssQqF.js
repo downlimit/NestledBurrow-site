@@ -1,0 +1,1 @@
+import{Ks as e,qs as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";t();export{e as colorCorrectionPixelShader};

@@ -1,0 +1,43 @@
+name: Remove Superseded Pages Artifacts
+
+on:
+  push:
+    branches:
+      - main
+  workflow_run:
+    workflows:
+      - pages-build-deployment
+    types:
+      - completed
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  cleanup:
+    if: github.event_name == 'push' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep only the newest Pages artifact
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const artifacts = await github.paginate(github.rest.actions.listArtifactsForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: 'github-pages',
+              per_page: 100,
+            });
+            const ordered = artifacts
+              .filter((artifact) => artifact.name === 'github-pages')
+              .sort((left, right) => (
+                Date.parse(right.created_at) - Date.parse(left.created_at) || right.id - left.id
+              ));
+            for (const artifact of ordered.slice(1)) {
+              await github.rest.actions.deleteArtifact({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                artifact_id: artifact.id,
+              });
+            }

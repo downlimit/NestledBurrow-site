@@ -1,0 +1,1 @@
+import{O as e,k as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as shadowMapPixelShaderWGSL};

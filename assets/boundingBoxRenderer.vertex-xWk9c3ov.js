@@ -1,0 +1,1 @@
+import{$s as e,Qs as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as boundingBoxRendererVertexShader};

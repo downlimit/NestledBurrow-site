@@ -1,0 +1,1 @@
+import{H as e,U as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as pickingVertexShaderWGSL};

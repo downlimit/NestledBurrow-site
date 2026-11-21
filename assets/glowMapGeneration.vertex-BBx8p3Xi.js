@@ -1,0 +1,1 @@
+import{Hn as e,Un as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";t();export{e as glowMapGenerationVertexShaderWGSL};

@@ -1,0 +1,1 @@
+import{ba as e,xa as t}from"./babylon.inspector.bundle.max-BeDwp9Ly.js";e();export{t as meshUVSpaceRendererFinaliserPixelShader};
